@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Test Practice 2",
+    "owner": "Test",
+    "description": "Test System using model elements"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Test Model",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Test"
+  }
+}
